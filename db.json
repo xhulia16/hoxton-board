@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "waitress",
+      "payment": 300
+    },
+    {
+      "id": 2,
+      "title": "customer care specialist",
+      "payment": 400
+    },
+    {
+      "id": 3,
+      "title": "dog whisperer",
+      "payment": 600
+    },
+    {
+      "title": "dfdff",
+      "payment": "6667",
+      "id": 4
+    },
+    {
+      "title": "dfdf",
+      "payment": "fdgf",
+      "id": 5
+    },
+    {
+      "title": "job1",
+      "payment": "600",
+      "id": 6
+    }
+  ]
+}
